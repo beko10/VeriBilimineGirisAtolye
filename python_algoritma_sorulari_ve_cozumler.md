@@ -664,6 +664,3 @@ print(merge([[1,3],[2,6],[8,10],[15,18]]))
 Bu doküman, Python'un temel konularını kullanarak algoritma problemlerini çözme becerinizi geliştirmenize yardımcı olmak için hazırlanmıştır. Her zorluk seviyesindeki sorular, gerçek programlama mülakatlarında ve pratik uygulamalarda karşılaşabileceğiniz problem türlerini temsil etmektedir.
 
 ---
-
-*Hazırlayan: MiniMax Agent*  
-*Tarih: 4 Kasım 2025*

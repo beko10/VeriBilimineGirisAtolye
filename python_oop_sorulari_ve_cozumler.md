@@ -1263,6 +1263,3 @@ if __name__ == "__main__":
 Bu doküman, Python'un OOP konseptlerini kullanarak gerçek dünya problemlerini çözme becerinizi geliştirmenize yardımcı olmak için hazırlanmıştır. Her seviyedeki sorular, sınıf tasarımı, kalıtım, çok biçimlilik ve kapsülleme kavramlarını derinlemesine anlamanızı sağlar.
 
 ---
-
-*Hazırlayan: MiniMax Agent*  
-*Tarih: 4 Kasım 2025*
